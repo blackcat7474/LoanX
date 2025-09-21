@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LoanX: Smart Loan Analyzer",
+  "description": "An application to track loan balances, calculate repayment schedules, and analyze payment strategies to visualize how extra payments can reduce total interest and shorten the loan term.",
+  "requestFramePermissions": []
+}
